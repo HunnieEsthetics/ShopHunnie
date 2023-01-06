@@ -1,5 +1,5 @@
 .menu{
-    background-color: #7E57C2;
+    background-color: #4e4134;
     height: 100px;
 }
 
@@ -8,7 +8,7 @@
 
 nav{
     font-family: monsterrat;
-    background-color: #0a043c;
+    background-color: #625242;
     height: 80px;
     width: 100%;
 }
@@ -38,7 +38,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 a.active, a:hover{
-    background-color:#C53F3F;
+    background-color:#ff69b4;
     transform: .5s;
     padding : 7px 13px;
     border-radius: 3px;

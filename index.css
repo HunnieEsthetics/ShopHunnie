@@ -42,7 +42,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 a.active, a:hover{
-    background-color: #FF725E;
+    background-color: #ff69b4;
     transform: .5s;
     padding : 7px 13px;
     border-radius: 3px;

@@ -272,7 +272,7 @@ footer form{
 footer{
     height: 60vh;
     color: white;
-    background-color: #4e4134;
+    background-color: #5b5b5b;
 }
 /* -----------------SMALLER SCREEN RESOLUTION ------------------ */
 @media (max-width : 920px) {

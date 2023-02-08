@@ -183,7 +183,7 @@ footer form{
 
 /* -------------------SERVICES -------------------- */
 .services{
-    background-color: #5B5B5B;
+    background-color: rgb(187, 19, 47);
     height: 80vh;
     display: flex;
     flex-direction: column;

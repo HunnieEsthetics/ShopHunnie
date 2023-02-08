@@ -133,9 +133,9 @@ body{
     font-weight: bold;
 }
 .text button:hover{
-    color: #89725c;
+    color: #3c3c3c;
     background-color: #fff;
-    border : 1px solid #89725c;
+    border : 1px solid #3c3c3c;
     cursor: pointer;
     transform: scale(1.1);
     transition: .2s;

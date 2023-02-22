@@ -45,7 +45,7 @@
   }
   
   .nav > .nav-links > a:hover {
-    background-color: rgb(187, 19, 47);
+    background-color: rgb(255, 148, 193);
   }
   
   .nav > #nav-check {
@@ -183,7 +183,7 @@ footer form{
 
 /* -------------------SERVICES -------------------- */
 .services{
-    background-color: rgb(187, 19, 47);
+    background-color: rgb(255, 148, 193);
     height: 80vh;
     display: flex;
     flex-direction: column;

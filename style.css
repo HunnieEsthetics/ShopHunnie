@@ -330,6 +330,12 @@ footer{
 }
 
 
+.image{
+    height : 70vh;
+    width: 40vw;
+    margin-left: -200px;
+}
+
     .image1{
       margin-right: auto;
       margin-top: 20px;

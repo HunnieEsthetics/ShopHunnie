@@ -122,7 +122,10 @@ body{
     width: 35vw;
 }
 .text.la{
-  width: 50vw;
+  width: 40vw;
+}
+.home.fix{
+  justify-content: space-evenly;
 }
 .text button{
     border: none;
@@ -149,6 +152,13 @@ body{
     object-fit: contain;
     height: 100%;
     width: 100%;
+}
+.home.fixt{
+  display : flex;
+  flex-direction: row;
+  border : 1px solid blue;
+  justify-content: space-around;
+  align-items: center;
 }
 .image.tes{
   width: 300px;
@@ -291,6 +301,7 @@ footer{
     .image{
         width: 80vw;
         height: 60vh;
+        margin: 20px 20px  40px 0px;
     }
     .home.la{
       height: fit-content;

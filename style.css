@@ -265,7 +265,7 @@ footer form{
 }
 .portfolio .slides .testside{
     /* border: 1px solid green; */
-    width: 400px;
+    justify-content: center;
 }
 
 
